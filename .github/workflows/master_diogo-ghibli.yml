@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'diogo-ghibli'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E310A270FC446BEAB85609AF9C4CE04 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9C84F818152247768A6789637898E52E }}
           package: .
